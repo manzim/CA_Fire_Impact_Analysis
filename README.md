@@ -1,7 +1,15 @@
 # My Forest Fire Analysis Project
 
+## Project report
+The project report is available inside the resources folder (named as **Ahmed Manzim Ridwan_FIT_APF_WiSe2024-25.pdf**)
+
 ### Prerequisite
-1. VS Code (download from here: https://code.visualstudio.com/download). Also, please intall the following three extensions for a seamless experience
+1. VS Code (download from here: https://code.visualstudio.com/download). 
+2. Python & IPython 
+3. Git (good to have) (download from https://git-scm.com/downloads)
+
+## Getting started 
+1. install the vs code, ipython, and git (if not installed already). Also, please intall the following three extensions for a seamless experience
     - Jupyter
     - Python
     - IPython (incase in your system, IPython isn't installed, don't worry, when you run Jupyter Notebook commands, VSCode will ask you to install 
@@ -10,21 +18,21 @@
 
 If python, IPython is already in your system, then the IPython kernel might automatically be ready to work on your device. In case you need a video installation guide to start with the Jupyter Notebook in VSCode, this official video recommended. Please check this video https://youtu.be/suAkMeWJ1yE 
 
-2. IPython (can be installed from the terminal in VS Code)
+2. In case IPython isn't in the system, it can also be installed from the terminal in VS Code
   Steps: 
     - open VS Code
     - write ```pip install ipython``` and press enter
     - just to be sure, check the version once installed with ```ipython --version```
-3. Git (good to have) (download from https://git-scm.com/downloads)
+  
+3. Check the python env set for the kernel
+    ![python for kernel](https://github.com/user-attachments/assets/a5391f17-3568-40a1-99c8-84c21aa3b687)
 
-
-## Getting started 
-1. install the vs code, ipython, and git (if not installed already)
 2. move to your preferred project working directory (PWD) folder
 3. right click and find Open Git Bash here
 
    ![git bash](https://github.com/user-attachments/assets/098c8cdc-e04f-4a85-8eb0-31fd3e74f6c0)
-4. on the pop-up window type ```git clone https://github.com/manzim/CA_Fire_Impact_Analysis.git``` and press enter
+   
+5. on the pop-up window type ```git clone https://github.com/manzim/CA_Fire_Impact_Analysis.git``` and press enter
    ![git clone from repo](https://github.com/user-attachments/assets/7a906807-1689-4395-90f4-38d20192bce9)
    ![should look like this after cloning](https://github.com/user-attachments/assets/94db189f-bd5e-4507-8121-d67d56de662f)
 
@@ -51,8 +59,8 @@ here's the screenshot for inside vs code
   - dataset_time_series_analysis.ipynb
   - any other remaining files
 
-**N.B:** Two things to keep in mind
+#### **N.B:** Two things to keep in mind
 1. Sometimes the dataset might not load, whenever, a change happens in the ".py" file, then it doesn't automitically update itself. In this case the kernel has to be killed and restart again or close the VS Code and open again
-2. For the interactive plot, widgets have been used. Hence, there is a good chance, that these interactive plot codes might not work in another interface or compiler.
+2. For the interactive plot, widgets have been used. Hence, there is a good chance, that these interactive plot codes might not work in another interface or compiler. If it doesn't run on this project scripts too, then please kindly open a python cell and run this code ```pip install ipympl```. 
 
 
