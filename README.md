@@ -1,5 +1,8 @@
 # My Forest Fire Analysis Project
 
+## Project report
+The project report is available inside the resources folder (named as **Ahmed Manzim Ridwan_FIT_APF_WiSe2024-25.pdf**)
+
 ### Prerequisite
 1. VS Code (download from here: https://code.visualstudio.com/download). 
 2. Python & IPython 
