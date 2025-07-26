@@ -1,7 +1,7 @@
 # Forest Fire Analysis Project
 
 ## Project report
-The project report is available inside the resources folder (named as **Ahmed Manzim Ridwan_FIT_APF_WiSe2024-25.pdf**)
+The project report is currently not available inside the resources folder, please contact me if you need any inspiration/help regarding the report.
 
 ### Prerequisite
 1. VS Code (download from here: https://code.visualstudio.com/download). 
