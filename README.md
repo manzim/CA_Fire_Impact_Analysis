@@ -1,4 +1,4 @@
-# My Forest Fire Analysis Project
+# Forest Fire Analysis Project
 
 ## Project report
 The project report is available inside the resources folder (named as **Ahmed Manzim Ridwan_FIT_APF_WiSe2024-25.pdf**)
@@ -63,4 +63,19 @@ here's the screenshot for inside vs code
 1. Sometimes the dataset might not load, whenever, a change happens in the ".py" file, then it doesn't automitically update itself. In this case the kernel has to be killed and restart again or close the VS Code and open again
 2. For the interactive plot, widgets have been used. Hence, there is a good chance, that these interactive plot codes might not work in another interface or compiler. If it doesn't run on this project scripts too, then please kindly open a python cell and run this code ```pip install ipympl```. 
 
+## License
 
+This project is not open source.
+
+© AHMED MANZIM RIDWAN, 2025. All rights reserved.  
+Coursework submitted as part of the Final Project for Applied Programming in Forestry
+[(Hochschule für Nachhaltige Entwicklung Eberswalde)](https://www.hnee.de)
+
+No part of this repository may be reused, copied, or distributed without explicit permission.  
+Please contact the author for reuse or collaboration requests.  
+Proper citation is mandatory for any academic reference to this work.
+
+## Use for Citation: 
+If you use or refer to this project in your work, please cite it as:
+
+**Ridwan, A. M. (2025). *Impact Analysis of Calirfornia Fire*. GitHub. https://github.com/manzim//CA_Fire_Impact_Analysis**
